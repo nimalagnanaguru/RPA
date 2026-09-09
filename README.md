@@ -1,8 +1,8 @@
-# UiPath Daily Learning & Practice
+### UiPath Daily Learning & Practice
 
 This repository contains my daily learning and practice tasks completed using **UiPath Studio**, covering core RPA concepts, workflow design, automation logic, and data handling.
 
-##  Daily Tasks
+###  Daily Tasks
 
 ### Day 1 – Variables & Arguments
 
