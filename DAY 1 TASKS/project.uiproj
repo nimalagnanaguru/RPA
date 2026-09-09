@@ -1,0 +1,6 @@
+{
+  "Name": "day1_tasks",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "display_name.xaml"
+}
