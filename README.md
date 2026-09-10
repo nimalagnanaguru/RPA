@@ -37,4 +37,25 @@ This repository contains my daily learning and practice tasks completed using **
 * Arrays
 * Initializing Lists and Arrays
 * Iterating through collections
+### Day 4 – String Manipulation & Word Automation
 
+**Topics Covered**
+
+* String manipulation
+* Extracting characters using Substring
+* Checking whether a string contains specific text
+* Converting strings to uppercase using ToUpper()
+* Splitting sentences into words using Split()
+* Joining words into a sentence using String.Join()
+* Extracting numbers from strings
+* Reversing strings
+* Removing special characters
+* Working with String and String[] variables
+
+**Word Automation**
+
+* Word Application Scope
+* Opening and working with Word documents
+* Writing text into Word documents
+* Appending text to Word documents
+* Automating basic Word document operations
