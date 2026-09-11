@@ -59,3 +59,40 @@ This repository contains my daily learning and practice tasks completed using **
 * Writing text into Word documents
 * Appending text to Word documents
 * Automating basic Word document operations
+### Day 5 – Files & Folders
+
+**Topics Covered**
+
+- Creating folders dynamically
+- Working with folder paths
+- Creating folders using today's date
+- Filtering files by extension
+- Getting the latest file from a folder
+- Counting files in a folder
+- Checking whether a folder contains files
+- Compressing/Zip files and folders
+- Extracting/Unzipping files
+- Working with multiple files
+- Iterating through files using For Each File in Folder
+- Filtering Excel files
+- Moving files between folders
+- File extension-based processing
+- Employee document management
+- Counting and categorizing files
+
+**Employee Document Management**
+
+- Reading files from an Input folder
+- Identifying PDF and Excel files
+- Moving PDF files to the PDF folder
+- Moving Excel files to the Excel folder
+- Maintaining PDF, Excel, and total file counts
+- Displaying the final processing summary
+
+**Expected Output**
+
+```text
+Total Files: 4
+PDF Files: 2
+Excel Files: 2
+Processing Completed
