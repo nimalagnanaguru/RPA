@@ -89,10 +89,4 @@ This repository contains my daily learning and practice tasks completed using **
 - Maintaining PDF, Excel, and total file counts
 - Displaying the final processing summary
 
-**Expected Output**
 
-```text
-Total Files: 4
-PDF Files: 2
-Excel Files: 2
-Processing Completed
