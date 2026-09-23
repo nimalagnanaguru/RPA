@@ -129,8 +129,6 @@ This repository contains my daily learning and practice tasks completed using **
 
 ### Day 7 – Browser & E-Commerce Automation
 
-[svg](https://github.com/nimalagnanaguru/RPA/blob/main/README.md#day-7--browser--e-commerce-automation)
-
 **Topics Covered**
 
 - Browser automation
