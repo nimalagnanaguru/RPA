@@ -90,8 +90,6 @@ This repository contains my daily learning and practice tasks completed using **
 - Displaying the final processing summary
 ### Day 6 – Excel Automation, PDF Reports & Email Automation
 
-[svg](https://github.com/nimalagnanaguru/RPA/blob/main/README.md#day-6--excel-automation-pdf-reports--email-automation)
-
 **Topics Covered**
 
 - Reading data from Excel using Read Range
